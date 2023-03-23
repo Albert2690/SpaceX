@@ -1,0 +1,408 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.border{
+    width: 100%;
+    height: 750px;
+    background-image:url(https://sxcontent9668.azureedge.us/cms-assets/assets/SES_18_19_presssite_DSC_2850_417e27436e.jpg);
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
+header{
+    width: 100%;
+    height: 20px;
+    position: fixed;
+}
+img{
+  
+   cursor: pointer;
+    width: 244px;
+    height: 44px;
+    /* margin-right: 21px; */
+    /* margin-left: 97px; */
+    position: absolute;
+    left: 92px;
+    top: 24px;
+    float: left;
+}
+.bullets{
+ 
+    color: gray;
+    float: left;
+    MARGIN-LEFT: 409px;
+    justify-content: space-between;
+    margin-top: 38px;
+}
+a{
+   text-decoration: none;
+    color: azure;
+    font-size: 12px;
+    padding-left: 22px;
+    font-weight: 600;
+    float: left;
+    text-transform: uppercase;
+}
+.bullets a:hover{
+   
+   text-decoration-line:underline ;
+   height: 5px;
+   size: 10px;
+   
+    
+   
+   
+}
+.shop{
+    font-size: 14px;
+    position: absolute;
+    top: 39px;
+    left: 1341px;
+    font-weight: 200;
+    float: left;
+
+}
+.matter{
+    width: 50%;
+    margin-left: 152px;
+    color: #fff;
+    margin-top: 362px;
+    font-size: 20px;
+}
+.matter1{
+    color:white;
+    
+}
+.matter2{
+    font-size: 43px;
+    margin-top: -8px;
+    color: #fff;
+
+}
+.matter3{
+    width: 152px;
+    height: 46px;
+    font-weight: 600;
+    border-color: #fff;
+    background-color: transparent;
+    /* backface-visibility: visible; */
+    opacity: 20px;
+    color: #fff;
+    cursor: pointer;
+
+}
+.matter3:hover{ background-color: #fff;
+    transform-origin:top bottom;
+    color: black;
+    transition: ease-in-out;
+    transition-duration: .6s;
+    
+    transition: 0.6s;
+   
+}
+/* .matter3:hover::after{
+    transform-origin: bottom center;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) ease-out;
+
+
+} */
+.menu{
+  
+    width: 50px;
+    height: 15px;
+    margin-left: 238px;
+    margin-top: 1px;
+    float: left;
+    cursor: pointer;
+
+}
+
+.menu1{
+    width: 18px;
+height: 2px;
+background-color:white;
+
+}
+.menu2{
+    width: 18px;
+height: 2px;
+background-color:white;
+margin-top: 4px;
+
+}
+.menu3{
+    width: 18px;
+height: 2px;
+background-color:white;
+margin-top: 4px;
+
+}
+.container{
+    width: 100%;
+    height: 750px;
+    background-image:url(https://sxcontent9668.azureedge.us/cms-assets/assets/home_Starlink_2_8_Launch_230317_desktop_dsc00028_c6e9477498.JPG);
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
+.matter0{
+    width: 50%;
+    margin-left: 152px;
+    color: #fff;
+    margin-top: 415px;
+    font-size: 20px;
+}
+.matter11{
+    color:white;
+    
+}
+.matter22{
+    font-size: 43px;
+    margin-top: -8px;
+    color: #fff;
+
+}
+.matter33{
+    width: 152px;
+    height: 46px;
+    font-weight: 600;
+    border-color: #fff;
+    background-color: transparent;
+    /* backface-visibility: visible; */
+    opacity: 20px;
+    color: #fff;
+    cursor: pointer;
+
+}
+.matter33:hover{ background-color: #fff;
+    transform-origin:top bottom;
+    color: black;
+    transition: ease-in-out;
+    transition-duration: .6s;
+    
+    transition: 0.6s;
+}
+.container0{
+    width: 100%;
+    height: 750px;
+    background-image:url(https://sxcontent9668.azureedge.us/cms-assets/assets/CRS_27_astronautrd_streak_desktop_90cbf7ea69.jpg);
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
+.matter01{
+    width: 50%;
+    margin-left: 152px;
+    color: #fff;
+    margin-top: 415px;
+    font-size: 20px;
+}
+.matter011{
+    color:white;
+    
+}
+.matter022{
+    font-size: 43px;
+    margin-top: -8px;
+    color: #fff;
+
+}
+.matter033{
+    width: 152px;
+    height: 46px;
+    font-weight: 600;
+    border-color: #fff;
+    background-color: transparent;
+    /* backface-visibility: visible; */
+    opacity: 20px;
+    color: #fff;
+    cursor: pointer;
+
+}
+.matter033:hover{ background-color: #fff;
+    transform-origin:top bottom;
+    color: black;
+    transition: ease-in-out;
+    transition-duration: .6s;
+    
+    transition: 0.6s;
+}
+.container01{
+    width: 100%;
+    height: 750px;
+    background-image:url(https://sxcontent9668.azureedge.us/cms-assets/assets/Crew_5_Crew_Desktop_a8940419b8.jpg);
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
+.matter001{
+    width: 50%;
+    margin-left: 152px;
+    color: #fff;
+    margin-top: 415px;
+    font-size: 20px;
+}
+.matter0111{
+    color:white;
+    
+}
+.matter0222{
+    font-size: 43px;
+    margin-top: -8px;
+    color: #fff;
+
+}
+.matter0333{
+    width: 152px;
+    height: 46px;
+    font-weight: 600;
+    border-color: #fff;
+    background-color: transparent;
+    /* backface-visibility: visible; */
+    opacity: 20px;
+    color: #fff;
+    cursor: pointer;
+
+}
+.matter0333:hover{ background-color: #fff;
+    transform-origin:top bottom;
+    color: black;
+    transition: ease-in-out;
+    transition-duration: .6s;
+    
+    transition: 0.6s;
+}
+
+.container011{
+    width: 100%;
+    height: 750px;
+    background-image:url(https://sxcontent9668.azureedge.us/cms-assets/assets/S20_Chopstick_Stack_Desktop_0c016b49ec.webp);
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
+.matter0011{
+    width: 50%;
+    margin-left: 152px;
+    color: #fff;
+    margin-top: 415px;
+    font-size: 20px;
+}
+.matter01111{
+    color:white;
+    
+}
+.matter02222{
+    font-size: 43px;
+    margin-top: -8px;
+    color: #fff;
+
+}
+.matter03333{
+    width: 152px;
+    height: 46px;
+    font-weight: 600;
+    border-color: #fff;
+    background-color: transparent;
+    /* backface-visibility: visible; */
+    opacity: 20px;
+    color: #fff;
+    cursor: pointer;
+
+}
+.matter03333:hover{ background-color: #fff;
+    transform-origin:top bottom;
+    color: black;
+    transition: ease-in-out;
+    transition-duration: .6s;
+    
+    transition: 0.6s;
+}
+.containerlast{
+    width: 100%;
+    height: 750px;
+    background-image:url(https://sxcontent9668.azureedge.us/cms-assets/assets/Homepage_Desktop_5ebdeb0c6c.webp);
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
+.matterlast{
+    width: 50%;
+    margin-left: 152px;
+    color: #fff;
+    margin-top: 415px;
+    font-size: 20px;
+}
+.matterlast1{
+    color:white;
+    
+}
+.matterlast2{
+    font-size: 43px;
+    margin-top: -8px;
+    color: #fff;
+
+}
+.matterlast3{
+    width: 152px;
+    height: 46px;
+    font-weight: 600;
+    border-color: #fff;
+    background-color: transparent;
+    /* backface-visibility: visible; */
+    opacity: 20px;
+    color: #fff;
+    cursor: pointer;
+
+}
+.matterlast3:hover{ background-color: #fff;
+    transform-origin:top bottom;
+    color: black;
+    transition: ease-in-out;
+    transition-duration: .6s;
+    
+    transition: 0.6s;
+}
+footer{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+.ftr{
+  width: 70%;
+    height: 30px;
+    float: left;
+    margin-top: 43px;
+    margin-left: 376px
+}
+.ftr1{
+  width: 87px;
+    font-size: 51px;
+    color: grey;
+    float: left;
+    font-size: 12px;
+}
+i{
+    border-color: #151313;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+.down{
+   color: black;
+   font-weight: 600;
+   font-size: 20px;
+}
+/* }
+a::after{
+    content: " ";
+    background-color: #fff;height: 1px;
+    position: absolute;
+    transition: 0.025s;
+}
+a:hover{
+    left: 0;
+    right: 100%;
+} */
